@@ -1,0 +1,6 @@
+*.png
+.idea
+.idea/*
+*.fcp
+*.birdfont
+*.svg

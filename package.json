@@ -1,0 +1,23 @@
+{
+  "name": "vazin-font",
+  "version": "1.0.0",
+  "description": "vazin font for web",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vazin-team/vazin-font.git"
+  },
+  "keywords": [
+    "font",
+    "persian",
+    "asset",
+    "farsi",
+    "arbic",
+    "fonts"
+  ],
+  "author": "Vazin-team",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vazin-team/vazin-font/issues"
+  },
+  "homepage": "https://github.com/vazin-team/vazin-font#readme"
+}
