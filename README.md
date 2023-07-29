@@ -13,4 +13,13 @@ yarn add vazin-font
 ```
 
 link css:
+```html
+<link href="node_modules/vazin-font/dist/vazin-font-face.css" rel="stylesheet" type="text/css" />
+```
 
+use css
+```css
+*{
+    font-family: 'Vazin', sans-serif;
+}
+```
